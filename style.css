@@ -68,3 +68,19 @@ blockquote {
   width: 650px;
   margin-bottom: 5px;
 }
+
+#readmore {
+  font-size: 14px;
+}
+
+#image {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/United_States_women%27s_national_soccer_team_logo.svg/1200px-United_States_women%27s_national_soccer_team_logo.svg.png');
+  height: 50%;
+}
+
+#secondlink {
+  text-align: right;
+  padding-right: 230px;
+  bottom: 20px;
+  position: relative;
+  }
