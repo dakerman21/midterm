@@ -62,5 +62,9 @@ blockquote {
 
 #relateditems {
   font-size: 40px;
-  margin-left: 350px;
+  padding-left: 350px;
+  background-color: #010D4E;
+  color: white;
+  width: 650px;
+  margin-bottom: 5px;
 }
